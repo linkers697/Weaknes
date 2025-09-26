@@ -6,7 +6,7 @@
     
 </h2>
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/musicbhai/Simple"><img src="https://github-readme-stats.vercel.app/api/pin/?username=riteshxcoder&repo=RiteshMusic&theme=chartreuse-dark"></a>
+<a href="https://github.com/linkers697/Weaknes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=riteshxcoder&repo=RiteshMusic&theme=chartreuse-dark"></a>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
